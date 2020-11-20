@@ -1,0 +1,14 @@
+*.iml
+.gradle
+.idea
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/app/src/androidTest/java/com/ctl/skinaction/ExampleInstrumentedTest.kt
+/skin_lib/src/androidTest/java/com/ctl/skin_lib/ExampleInstrumentedTest.kt
+/app/src/test/java/com/ctl/skinaction/ExampleUnitTest.kt
+/skin_lib/src/test/java/com/ctl/skin_lib/ExampleUnitTest.kt
